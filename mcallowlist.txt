@@ -1,10 +1,4 @@
-@@||reminders-pa.googleapis.com^
-@@||firestore.googleapis.com^
-@@||googleapis.l.google.com^
-@@||clients4.google.com^
-@@||clients2.google.com^
-@@||msftncsi.com^
-@@||msftconnecttest.com^
+# Apple
 @@||itunes.apple.com^
 @@||s.mzstatic.com^
 @@||gsp-ssl.ls.apple.com^
@@ -14,8 +8,8 @@
 @@||gsp1.apple.com^
 @@||www.apple.com^
 @@||www.appleiphonecell.com^
-@@||telemtry-console.api.playstation.com^
-@@||android.clients.google.com^
+
+# Microsoft
 @@||g.live.com^
 @@||msedge.api.cdp.microsoft.com^
 @@||outlook.office365.com^
@@ -25,6 +19,52 @@
 @@||login.live.com^
 @@||login.microsoftonline.com^
 @@||xbox.ipv6.microsoft.com^
+@@||v10.vortex-win.data.microsoft.com^
+@@||settings-win.data.microsoft.com^
+@@||officeclient.microsoft.com^
+@@||ads.microsoft.com^
+@@||msftncsi.com^
+@@||msftconnecttest.com^
+
+# Google
+@@||ads.google.com^
+@@||android.clients.google.com^
+@@||reminders-pa.googleapis.com^
+@@||firestore.googleapis.com^
+@@||googleapis.l.google.com^
+@@||clients4.google.com^
+@@||clients2.google.com^
+
+# Amazon Kindle
+cognito-identity.us-east-1.amazonaws.com
+unagi-na.amazon.com
+ocsp.rootg2.amazontrust.com
+det-ta-g7g.amazon.com
+todo-ta-g7g.amazon.com
+device-messaging-na.amazon.com
+s3-eu-west-1.amazonaws.com
+us-east-1.amazonaws.com
+
+# Target's Weekly Ads
+@@||weeklyad.target.com^
+@@||m.weeklyad.target.com^
+@@||weeklyad.target.com.edgesuite.net^
+
+# URL shorteners
+@@||t.ly^
+@@||adf.ly^
+@@||www.adf.ly^
+@@||bit.ly^
+@@||www.bit.ly^
+@@||goo.gl^
+@@||ow.ly^
+@@||www.ow.ly^
+@@||amzn.to^
+@@||amzn.com^
+
+# Xbox Stuff
+@@||v10.events.data.microsoft.com^
+@@||v20.events.data.microsoft.com^
 @@||device.auth.xboxlive.com^
 @@||title.mgt.xboxlive.com^
 @@||xsts.auth.xboxlive.com^
@@ -40,13 +80,27 @@
 @@||licensing.xboxlive.com^
 @@||eds.xboxlive.com^
 @@||www.xboxlive.com^
-@@||v10.vortex-win.data.microsoft.com^
-@@||settings-win.data.microsoft.com^
-@@||officeclient.microsoft.com^
-@@||weeklyad.target.com^
-@@||weeklyad.target.com.edgesuite.net^
+
+# Nvidia
+@@||ota-downloads.nvidia.com^
+@@||events.gfe.nvidia.com^
+@@||gfwsl.geforce.com^
+
+# Host files
+@@||hosts-file.net^
+@@||raw.githubusercontent.com^
+@@||v.firebog.net^
+@@||hostsfile.org^
+@@||someonewhocares.org^
+@@||hostsfile.mine.nu^
+@@||winhelp2002.mvps.org^
+@@||sysctl.org^
+@@||pgl.yoyo.org^
+@@||zeustracker.abuse.ch^
+
+# Misc.
+@@||telemtry-console.api.playstation.com^
 @@||share.vonage.com^
-@@||ads.microsoft.com^
 @@||hs-sales-engage.com^
 @@||techsmith.com^
 @@||figma.com^
@@ -54,5 +108,4 @@
 @@||nzbgeek.info^
 @@||xtlo.net^
 @@||vonage.com^
-@@||ads.google.com^
 @@||fluencyinc.co^
