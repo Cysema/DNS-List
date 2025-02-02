@@ -27,7 +27,6 @@ msftncsi.com
 msftconnecttest.com
 
 # Google
-ads.google.com
 android.clients.google.com
 reminders-pa.googleapis.com
 firestore.googleapis.com
